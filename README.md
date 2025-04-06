@@ -14,7 +14,7 @@ Toolbox:
 
 Connect:
 ----------------------------------------------------------------------------------------------------------------
-([https://github.com/user-attachments/assets/382aefcb-8519-453c-8e3b-9c1b6a5b25b8](https://www.linkedin.com/in/oluwabukunmi-mercy-akinloye/)) ![image](https://github.com/user-attachments/assets/30e614ff-ae1a-4d26-9220-2928cd9978e0)
+![image](https://www.linkedin.com/in/oluwabukunmi-mercy-akinloye/) ![image](https://github.com/user-attachments/assets/30e614ff-ae1a-4d26-9220-2928cd9978e0)
 
 
 
