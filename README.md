@@ -1,21 +1,20 @@
 ## Hi there 👋
 
-Ways To Reach Me:
-----------------------------------------------------------------------------------------------------------------
-Toolbox:
+My name is Mercy, with desire to combine health sciences, tech and ethics, I am working towards finding my niche. However, my interests are in analyzing multimodal healthcare datasets, building AI & statistical models, and eventually be involved in community building (e.g. conferences) and policy development.
 
+I am always learning, and am always welcome to advices and suggestions. :)
+
+Toolbox:
+----------------------------------------------------------------------------------------------------------------
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=anaconda,bash,git,html,r,pytorch,sklearn,tensorflow,ubuntu,unity" />
   </a>
 </p>
 
+Connect:
+----------------------------------------------------------------------------------------------------------------
 
-
-
-
-
-Interest:
 
 <!--
 **OMEAkin/OMEAkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
