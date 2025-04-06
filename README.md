@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi there, the name is Mercy 👋
 
-My name is Mercy, with desire to combine health sciences, tech and ethics, I am working towards finding my niche. However, my interests are in analyzing multimodal healthcare datasets, building AI & statistical models, and eventually be involved in community building (e.g. conferences) and policy development.
+With a desire to combine health sciences, technology and ethics, I am working towards finding my niche. I am interested in analyzing multimodal healthcare datasets, building ML/AI and statistical models for clinical and biomedical research. Alongside this, I am also passionate about community building through organizing conferences & interdisciplinary collaborations, and contributing to the development of ethical healthcare AI policies & strategies.
 
-I am always learning, and am always welcome to advices and suggestions. :)
+I am always learning, and advices & suggestions are highly welcomed. :)
 
 Toolbox:
 ----------------------------------------------------------------------------------------------------------------
@@ -14,6 +14,8 @@ Toolbox:
 
 Connect:
 ----------------------------------------------------------------------------------------------------------------
+![image](https://github.com/user-attachments/assets/382aefcb-8519-453c-8e3b-9c1b6a5b25b8) || ![image](https://github.com/user-attachments/assets/30e614ff-ae1a-4d26-9220-2928cd9978e0)
+
 
 
 <!--
