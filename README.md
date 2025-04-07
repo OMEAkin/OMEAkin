@@ -1,4 +1,4 @@
-## Hi there, the name is Mercy 👋
+## Hi there, my name is Mercy 👋
 
 With a desire to combine health sciences, technology and ethics, I am working towards finding my niche. I am interested in analyzing multimodal healthcare datasets, and building ML/AI & statistical models for clinical and biomedical research. Alongside this, I am also passionate about community building (e.g. through organizing conferences & interdisciplinary collaborations), and contributing to the development of ethical healthcare AI policies & strategies.
 
