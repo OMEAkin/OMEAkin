@@ -8,7 +8,7 @@ Toolbox:
 ----------------------------------------------------------------------------------------------------------------
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,bash,git,html,r,pytorch,sklearn,tensorflow,ubuntu,unity" />
+    <img src="https://skillicons.dev/icons?i=anaconda,bash,git,py,html,r,pytorch,sklearn,tensorflow,ubuntu,unity" />
   </a>
 </p>
 
