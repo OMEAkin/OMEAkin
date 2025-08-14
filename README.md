@@ -15,8 +15,8 @@ Toolbox:
 Current Reading List:
 ----------------------------------------------------------------------------------------------------------------
 📖 Applied Bioinformatics of Nucleic Acid Sequences, David A. Hendrix <br>
-📖 Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow, 2nd Edition: Concepts, Tools, and Techniques to Build Intelligent Systems, Aurelien Geron
- <br>📖 Multimodal Artificial Intelligence in Medical Diagnostics: https://doi.org/10.3390/info16070591 <br>
+📖 Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow, 2nd Edition: Concepts, Tools, and Techniques to Build Intelligent Systems, Aurelien Geron  <br>
+📖 Multimodal Artificial Intelligence in Medical Diagnostics: https://doi.org/10.3390/info16070591 <br>
 📖 Comprehensive Review of Multimodal Medical Data Analysis: Open Issues and Future Research Directions: https:doi.org/10.18267/j.aip.202
 <br>
 <!--
