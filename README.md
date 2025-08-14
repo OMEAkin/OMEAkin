@@ -12,7 +12,12 @@ Toolbox:
   </a>
 </p>
 
-
+Current Reading List:
+----------------------------------------------------------------------------------------------------------------
+📖 Applied Bioinformatics of Nucleic Acid Sequences, David A. Hendrix
+📖 Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow, 2nd Edition: Concepts, Tools, and Techniques to Build Intelligent Systems, Aurelien Geron
+📖 Multimodal Artificial Intelligence in Medical Diagnostics: https://doi.org/10.3390/info16070591
+📖 Comprehensive Review of Multimodal Medical Data Analysis: Open Issues and Future Research Directions: https:doi.org/10.18267/j.aip.202
 <!--
 **OMEAkin/OMEAkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
