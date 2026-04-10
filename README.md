@@ -1,4 +1,4 @@
-## Hi there, my name is Mercy 👋
+## Mercy 👋
 
 Broad Interest: combination of health sciences, technology and ethics. <br>
 Current: Research Assistant (PhD Candidate)
