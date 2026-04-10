@@ -1,6 +1,6 @@
 ## Mercy 👋
 
-Broad Interest: combination of health sciences, technology and ethics. <br>
+Broad Interest: health sciences + technology + ethics <br>
 Current: Research Assistant (PhD Candidate)
 
 I love to learn. Advices, suggestions and collaborations are (always and) highly welcomed. :)
