@@ -1,7 +1,7 @@
 ## Hi there, my name is Mercy 👋
 
-Focus: combination of health sciences, technology and ethics. <br> <br>
-I am interested in analyzing multimodal/multiomics healthcare datasets, and building ML/AI & statistical models for clinical and biomedical research. Alongside this, I am also passionate about community building (e.g. through organizing conferences & interdisciplinary collaborations), and contributing to the development of ethical healthcare AI policies & strategies.
+Broad Interest: combination of health sciences, technology and ethics. <br> <br>
+Current: Research Assistant (PhD Candidate)
 
 I love to learn. Advices, suggestions and collaborations are (always and) highly welcomed. :)
 
@@ -13,13 +13,6 @@ Toolbox:
   </a>
 </p>
 
-Current Reading List:
-----------------------------------------------------------------------------------------------------------------
-📖 Applied Bioinformatics of Nucleic Acid Sequences, David A. Hendrix <br>
-📖 Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow, 2nd Edition: Concepts, Tools, and Techniques to Build Intelligent Systems, Aurelien Geron  <br>
-📖 Multimodal Artificial Intelligence in Medical Diagnostics: https://doi.org/10.3390/info16070591 <br>
-📖 Comprehensive Review of Multimodal Medical Data Analysis: Open Issues and Future Research Directions: https:doi.org/10.18267/j.aip.202
-<br>
 <!--
 **OMEAkin/OMEAkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
